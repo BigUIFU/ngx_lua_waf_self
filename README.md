@@ -1,7 +1,6 @@
-# ngx_lua_waf_plus
+自用ngx_lua_waf
 
-基于loveshell/ngx_lua_waf和宝塔版waf，做了部分调整
-
-https://github.com/loveshell/ngx_lua_waf
+感谢提供
+https://github.com/cdhCC/ngx_lua_waf_plus
 
 
